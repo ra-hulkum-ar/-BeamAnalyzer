@@ -1,6 +1,6 @@
 #BeamAnalyzer
 
-**Author:** Evan Murawski
+**Author:** ra_hulkum_ar
 
 **License:** MIT
 
